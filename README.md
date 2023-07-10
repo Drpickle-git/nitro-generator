@@ -4,7 +4,7 @@ J'espère que vous trouverez un nitro !!
 
 
 ```
-Installation sous Kali Linux :
+Installation sous Kali Linux / termux :
 ```
 
 1. Assurez-vous que Python est installé sur votre système Kali Linux. Vous pouvez vérifier en exécutant la commande `python --version` dans un terminal. Si Python n'est pas installé, vous pouvez l'installer à l'aide de la commande `sudo apt-get install python`.
