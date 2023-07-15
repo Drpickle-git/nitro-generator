@@ -15,26 +15,26 @@ import string
 import webbrowser
 import requests
 
-print(gris, "Vérification du node.js en cours...")
+print(gris, "Vérification du node.js en cours..")
 time.sleep(3)
-print(gris, "Téléchargement des paquets en cours...")
+print(gris, "Téléchargement des paquets en cours..")
 time.sleep(4)
 print(vert, "Téléchargement terminé !")
 time.sleep(2)
-print(vert, "Démarrage du processus de vérification en cours...")
+print(vert, "Démarrage du processus de vérification en cours..")
 time.sleep(3)
-print(vert, "Vérification de l'utilisateur en cours...")
+print(vert, "Vérification de l'utilisateur en cours")
 time.sleep(5)
 print(vert, "Utilisateur vérifié !")
 time.sleep(2)
-print(bleu_foncé, "Fermeture du node.js en cours...")
+print(bleu_foncé, "Fermeture du node.js en cours..")
 time.sleep(5)
-print(bleu, "Génération des codes en cours...")
+print(bleu, "Génération des codes en cours..")
 time.sleep(6)
 
 num = input("Combien de codes souhaitez-vous vérifier ? ")
 
-f = open("Nitro Codes.txt", "w", encoding='utf-8')
+f = open("Nitro Codes .txt", "w", encoding='utf-8')
 
 print(gris, "Pinging node.js... ")
 time.sleep(3)
@@ -60,7 +60,6 @@ for n in range(int(num)):
 
 f.close()
 
-# Vérification des codes
 with open("codes.txt") as f:
     for line in f:
         nitro = line.strip("\n")
