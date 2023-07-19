@@ -81,8 +81,6 @@ with open("Nitro codes .txt") as f:
         else:
             print(bleu_foncé, " INVALIDE | {} ".format(line.strip("\n")))
 
-input("Fin de la génération ! J'espère que vous avez trouvé un Nitro ! Appuyez sur Entrée 5 fois ou exécutez à nouveau pour fermer le programme.")
-input("4")
-input("3")
+input("Fin de la génération ! J'espère que vous avez trouvé un Nitro ! Appuyez sur Entrée 2 fois ou exécutez à nouveau pour fermer le programme.")
 input("2")
 input("1")
