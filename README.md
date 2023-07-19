@@ -30,3 +30,7 @@ Installation sous Kali Linux / termux :
 9. Une fois la génération et la vérification terminées, vous pourrez trouver les codes valides dans le fichier "Nitro codes.txt".
 
 N'hésitez pas à personnaliser le script selon vos besoins ou à contribuer à son amélioration en proposant des modifications via des pull requests sur le dépôt GitHub.
+
+Tout Le code est Open Source, vous êtes libre de faire des changements a votre gout. 
+Vous n'avez cependant pas le droit de re-vendre ce logiciel, sans faire de changement. Sur n'importe quel changement/repost, vous ne devez pas enlever les deux lignes qui font ma publicité. sous peine de suppression du repertory.
+
